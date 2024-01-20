@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     cardOne: {
-        backgroundColor: 'black',
+        backgroundColor: '#FEEECD',
         elevation: 4,
         shadowOffset: {
             width: 1,
