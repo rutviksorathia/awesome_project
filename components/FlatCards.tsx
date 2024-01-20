@@ -44,9 +44,11 @@ const styles = StyleSheet.create({
     },
     card: {
         flex: 1,
+
         justifyContent: 'center',
         alignItems: 'center',
         height: 100,
+        width: 100,
         borderRadius: 4,
         margin: 8,
     }
