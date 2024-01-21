@@ -80,8 +80,6 @@ const styles = StyleSheet.create({
         color: 'white',
         fontSize: 12,
         marginBottom: 12,
-        
-
     },
     cardFooter: {
         color: 'white',
