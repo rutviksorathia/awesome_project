@@ -16,13 +16,12 @@ export default function FancyCard() {
                   
                   <Text style={styles.cardTitel}>Hava Mahel</Text>
                   <Text style={styles.cardLabel}>Amber Fort and Maota Lake, Jaipur, Rajasthan, India</Text>
-                  <Text style={styles.cardDescription}>Creator: VladimirSklyarov 
-| 
+                  <Text style={styles.cardDescription}>
+                    Creator: VladimirSklyarov| 
 Credit: Getty Images/iStockphoto
 Want to know where this information comes from? Learn more
-Images may be subject to copyright. Learn More</Text>
+Images may be subject to copyright. Learn More </Text>
                   <Text style={styles.cardFooter}>12 min away</Text>
-                    
               </View>
           </View>
     </View>
