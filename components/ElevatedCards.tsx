@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
         
     },
     card: {
+        flex: 1,
         height: 100,
         width: 100,
         margin: 8,
@@ -48,8 +49,6 @@ const styles = StyleSheet.create({
             width: 1,
             height:1,
         },
-        shadowColor: 'red',
-        
-        
+        shadowColor: 'red',    
     },
 })
