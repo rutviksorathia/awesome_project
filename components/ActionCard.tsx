@@ -21,22 +21,13 @@ export default function ActionCard() {
                   <View style={styles.buttonDesign}>
                         <TouchableOpacity onPress={() => onTap('https://reactnative.dev/')}>
                           <Text>Press hear</Text> 
-                        
-                     
                   </TouchableOpacity>
                   </View>
                   <View>
                       <Text>View More...</Text> 
                       </View>
                   </View>
-                  </View>
-                  
-                  
-              
-                  
-              
-
-                  
+                  </View>        
           </View>
     </View>
   )
