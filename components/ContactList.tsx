@@ -26,7 +26,7 @@ export default function ContactList() {
     <View>
           <Text>Contact List</Text>
           {list.map((item) => (
-                <View key = {item.id}>
+                <View key = {item.id} style={styles.container}>
                     <Text>{item.name}</Text>
                     <Text>{item.phone}</Text>
                     <Text>{item.email}</Text>
@@ -39,4 +39,8 @@ export default function ContactList() {
   )
 }
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+    container: {
+        backgroundColor: 'red',
+    }
+})
